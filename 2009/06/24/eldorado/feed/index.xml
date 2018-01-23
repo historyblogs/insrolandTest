@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	
+	>
+<channel>
+	<title>Comments on: Spring Street&#8217;s Monte Carlo</title>
+	<atom:link href="http://www.testingrichardsdomains.com/2009/06/24/eldorado/feed/" rel="self" type="application/rss+xml" />
+	<link>http://www.testingrichardsdomains.com/2009/06/24/eldorado/</link>
+	<description>Just another WordPress site</description>
+	<lastBuildDate>Sat, 24 Dec 2016 01:29:09 +0000</lastBuildDate>
+	<sy:updatePeriod>hourly</sy:updatePeriod>
+	<sy:updateFrequency>1</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=4.7.9</generator>
+	<item>
+		<title>By: JimmyJoeJohnson</title>
+		<link>http://www.testingrichardsdomains.com/2009/06/24/eldorado/#comment-34</link>
+		<dc:creator><![CDATA[JimmyJoeJohnson]]></dc:creator>
+		<pubDate>Mon, 30 Nov -0001 00:00:00 +0000</pubDate>
+		<guid isPermaLink="false">http://www.testingrichardsdomains.com/2009/06/24/eldorado/#comment-34</guid>
+		<description><![CDATA[&lt;div class=&quot;comment_body&quot;&gt;&lt;div&gt;is on a private page @ flickr...any chance we could see an enlargement?&lt;/div&gt;&lt;/div&gt;]]></description>
+		<content:encoded><![CDATA[<div class="comment_body">
+<div>is on a private page @ flickr&#8230;any chance we could see an enlargement?</div>
+</div>
+]]></content:encoded>
+	</item>
+</channel>
+</rss>
